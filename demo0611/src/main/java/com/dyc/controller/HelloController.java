@@ -14,6 +14,6 @@ public class HelloController {
     @RequestMapping
     @ResponseBody
     public String hello() {
-        return "凡是过往，皆为序章！！！";
+        return "凡是过往，皆为序章。剑之所向，心之所往。";
     }
 }
